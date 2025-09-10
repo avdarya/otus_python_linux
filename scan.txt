@@ -1,0 +1,52 @@
+============================================================
+Запуск парсера процессов
+============================================================
+Отчёт о состоянии системы:
+Пользователи системы: '_netbios', '_coreaudiod', '_appinstalld', '_spotlight', '_biome', 'daracydenova', '_nearbyd', '_usbmuxd', '_locationd', '_driverkit', '_fpsd', '_softwareupdate', '_neuralengine', '_audiomxd', '_nsurlsessiond', '_appleevents', '_oahd', '_gamecontrollerd', '_analyticsd', '_accessoryupdater', '_mdnsresponder', '_corespeechd', '_diskimagesiod', '_windowserver', '_ctkd', '_applepay', '_rmd', '_timed', '_networkd', '_distnote', 'root', '_cmiodalassistants', '_trustd', '_modelmanagerd'
+Процессов запущено: 480
+
+
+Пользовательских процессов:
+daracydenova: 309
+_windowserver: 2
+_coreaudiod: 2
+root: 110
+_driverkit: 4
+_locationd: 7
+_distnote: 1
+_fpsd: 2
+_gamecontrollerd: 2
+_biome: 1
+_softwareupdate: 2
+_netbios: 1
+_diskimagesiod: 3
+_audiomxd: 2
+_trustd: 2
+_neuralengine: 1
+_rmd: 1
+_nearbyd: 1
+_appleevents: 2
+_applepay: 1
+_appinstalld: 1
+_ctkd: 1
+_spotlight: 1
+_nsurlsessiond: 2
+_oahd: 1
+_accessoryupdater: 1
+_modelmanagerd: 1
+_cmiodalassistants: 10
+_mdnsresponder: 1
+_analyticsd: 1
+_networkd: 1
+_usbmuxd: 1
+_timed: 1
+_corespeechd: 1
+
+
+Всего памяти используется: 60.3%
+Всего CPU используется: 243.0%
+Больше всего памяти использует: 14.6% /Applications/PyChar
+Больше всего CPU использует: 90.4% /Users/daracydenova/
+============================================================
+Запуск парсера завершен
+============================================================
